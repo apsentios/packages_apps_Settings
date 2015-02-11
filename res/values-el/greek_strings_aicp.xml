@@ -53,10 +53,10 @@
     <string name="battery_settings_title">Ρυθμίσεις μπαταρίας</string>
     <string name="status_bar_battery_title">Εικονίδιο μπαταρίας</string>
 
-    <!-- Joke -->
-    <string name="hidden_shit_toast">Κρυφά σκατά αδέσμευτα!!!</string>
-    <string name="hidden_shit_title">Κρυφά σκατά</string>
-    <string name="hidden_shit_summary">Είστε τώρα στην αδέσμευτη λειτουργεία!</string>
+    <!-- Joke -->
+    <string name="hidden_shit_toast">Κρυφές ρυθμίσεις ΑΠΕΛΕΥΘΕΡΩΤΗΣ!!!</string>
+    <string name="hidden_shit_title">Κρυφές ρυθμίσεις</string>
+    <string name="hidden_shit_summary">Είστε στην απελευθερωμένη λειτουργεία!</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
