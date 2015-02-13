@@ -162,7 +162,7 @@
 
     <!-- Slim settings screens -->
     <string name="header_category_personalization">Εξατομίκευση</string>
-    <string name="interface_settings_title">Interface</string>
+    <string name="interface_settings_title">Διεπαφή</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Συλλογή χρωμάτων</string>
@@ -171,7 +171,7 @@
     <string name="arrow_down" translatable="false">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Ορισε</string>
+    <string name="set">Όρισε</string>
     <string name="color_default">Προεπιλογή</string>
 
     <!-- Status bar -->
