@@ -41,7 +41,7 @@
     <plurals name="show_dev_countdown_aicp">
     <item quantity="one">Απομένει <xliff:g id="step_count">%1$d</xliff:g> βήμα για να γίνετε προγραμματιστής.</item>
     <item quantity="other">Απομένουν <xliff:g id="step_count">%1$d</xliff:g> βήματα για να γίνετε προγραμματιστής.</item>
-	   </plurals>
+    </plurals>
     <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
     <string name="show_dev_on_aicp">Είστε πλέον προγραμματιστής!</string>
     <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
@@ -195,7 +195,7 @@
     <string name="enable_clock_weekday">Ημέρα εβδομάδας</string>
     <string name="enable_clock_weekday_summary">Σύντομη ημέρα εβδομάδας πριν από ημερομηνία</string>
     <string name="right_clock">Ρολόι δεξιά</string>
-   	<string name="left_clock">Ρολόι αριστερά</string>
+    <string name="left_clock">Ρολόι αριστερά</string>
     <string name="center_clock">Ρολόι κέντρο</string>
     <string name="dont_show">Απόκρυψε</string>
     <string name="clock_date_display">Ημερ/νία</string>
