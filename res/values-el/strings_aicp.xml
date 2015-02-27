@@ -780,7 +780,7 @@
     <string name="qs_battery_saver_tile">Εξοικον. μπαταρίας</string>
     <string name="qs_brightness_tile">Φωτεινότητα</string>
     <string name="qs_expanded_desktop_tile">Διευρυμένη επιφ. εργασίας</string>
-    <string name="qs_notifications_tile">Γνωστοποίησης</string>
+    <string name="qs_notifications_tile">Γνωστοποίηση</string>
     <string name="qs_screen_off_tile">Οθόνη εκτός</string>
 
     <!-- QuickSettings collapse panel -->
@@ -891,5 +891,14 @@
 
     <!-- Data activity icons -->
     <string name="status_bar_show_network_activity_title">Βέλη δραστηριότητας δικτύου</string>
+ 
+    <!-- Volume pane timeout -->
+    <string name="volume_panel_time_out_title">Πίνακας έντασης χρ.όριο</string>
+    <string name="volume_panel_time_out_summary">Απόκρυψη μετα απο <xliff:g id="number">%d</xliff:g> δευτερόλεπτα. Αυτόμ. απόκρυψη με αφή εξωτερικά</string>
+    <string name="volume_panel_time_out_3sec">3 δευτερόλεπτα (default)</string>
+    <string name="volume_panel_time_out_5sec">5 δευτερόλεπτα</string>
+    <string name="volume_panel_time_out_8sec">8 δευτερόλεπτα</string>
+    <string name="volume_panel_time_out_12sec">12 δευτερόλεπτα</string>
+    <string name="volume_panel_time_out_15sec">15 δευτερόλεπτα</string>
 
 </resources>
